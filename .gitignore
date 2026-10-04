@@ -1,0 +1,9 @@
+# Dataset files are too large for git; download them from Kaggle (see README)
+data/
+.ipynb_checkpoints/
+__pycache__/
+
+# The report has personal details (name, enrollment number), so it is kept out of git
+*.docx
+*.pdf
+~$*
